@@ -9,7 +9,7 @@
 	<properties>
 		<slf4j.api.version>1.7.21</slf4j.api.version>
 		<logback.classic.version>1.2.3</logback.classic.version>
-		<junit.version>4.11</junit.version>
+		<junit.version>4.13.1</junit.version>
 		<lombok.version>1.18.4</lombok.version>
 	</properties>
 
